@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zdravids
-- 👀 I’m interested in QA and Javascript
-- 🌱 I’m currently learning QA and JS Basics in SoftUni
-- 💞️ I’m looking to collaborate on a QA and programing related projects 
+- 👋 Hi, My name is Zdravko Todorov
+- 👀 I’m interested in QA, Database (MySQL) and Javascript 
+- 🌱 I’m currently learning QA Egeneer in SoftUni and I have knowadge in JS
+- 💞️ I’m looking to collaborate on a Business Analysts projects 
 - 📫 How to reach me zdravko.t.todorov@gmail.com
 
 <!---
