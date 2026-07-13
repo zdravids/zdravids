@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA, Database (MySQL) and Javascript 
 - 🌱 I’m currently learning for a QA Egeneer in SoftUni and I have knowadge in JS
 - 💞️ I’m looking to collaborate on a Business Analysts projects 
-- 📫 How to reach me zdravko.t.todorov@gmail.com
+- 📫 How to reach me zdravids@gmail.com
 
 <!---
 zdravids/zdravids is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
