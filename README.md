@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Zdravko Todorov
+- 👋 Hi, I am zdravids
 - 👀 I’m interested in QA, Database (MySQL) and Javascript 
 - 🌱 I’m currently learning for a QA Egeneer in SoftUni and I have knowadge in JS
 - 💞️ I’m looking to collaborate on a Business Analysts projects 
